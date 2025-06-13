@@ -1,6 +1,6 @@
 ## Hello, Friend 👋
 
-![Header](https://raw.githubusercontent.com/dorianpro/kaliwallpapers/master/kali-linux-wallpaper-v7.png)
+![Header](https://www.kali.org/wallpapers/images/2020.4/kali-legacy.png)
 <br>
 ![stefanionut1337's Stats](https://github-readme-stats.vercel.app/api?username=stefanionut1337&theme=vue-dark&show_icons=true&hide_border=false&count_private=true)
 <br>
